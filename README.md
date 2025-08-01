@@ -49,14 +49,17 @@ For the complete annotated wireframe document and additional screen flows, view 
 - **Version Control:** Git / GitHub  
 
 ## Project Structure
+<pre>
 SE-Project/
-├── wireframes/ # Design assets (preview images + full PDF)
-│ ├── website_frame.png
-│ ├── parkco-wireframes.pdf
-│ └── logo.png
-├── PARK/ # Codebase from the SE project (Flask-based)
-├── README.md # This file
-└── Test Cases V1.md
+├── wireframes/
+│   ├── website_frame.png
+│   ├── parkco-wireframes.pdf
+│   └── logo.png
+├── PARK/
+├── Test Cases V1.md
+└── README.md
+  
+  </pre>
 
 ## Contribution & Notes
 This project was completed as part of a university Software Engineering curriculum. My primary contributions centered on user interface design, responsive layout planning, and design documentation to guide development.
